@@ -1,6 +1,0 @@
-version: "Swift version 5.7 (swift-5.7-RELEASE)"
-options: "fa1cadaddb42a19f609c215f4d15925dbc81f483fa7ca0e10f93872bc2144314"
-build_start_time: [1668452912, 813416957]
-build_end_time: [1668452913, 527498006]
-inputs:
-  "/home/juneyoung-hwang/projects/Recursion/factorial/main.swift": [1668452590, 847679376]

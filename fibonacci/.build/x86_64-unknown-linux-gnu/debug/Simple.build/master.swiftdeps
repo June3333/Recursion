@@ -1,6 +1,0 @@
-version: "Swift version 5.7 (swift-5.7-RELEASE)"
-options: "660a348626323fd61b6c6f5aa645c1abb5f5dc5c0a87efb6c49ebdb687603544"
-build_start_time: [1668452896, 902560949]
-build_end_time: [1668452897, 596880912]
-inputs:
-  "/home/juneyoung-hwang/projects/Recursion/fibonacci/main.swift": [1668452606, 467519283]
